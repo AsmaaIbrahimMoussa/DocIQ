@@ -5,8 +5,7 @@ Upload a PDF, and immediately start chatting with it — all locally and without
 
 ## DocIQ Screenshot
 
-https://github.com/AsmaaIbrahimMoussa/DocIQ/blob/main/DocIQ.png
-
+![DocIQ Interface](DocIQ.png)
 
 ## Features
 - Upload and preview any PDF document
