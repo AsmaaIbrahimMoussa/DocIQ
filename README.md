@@ -3,7 +3,9 @@ DocIQ is a real-time PDF assistant powered by open-source LLMs and vector search
 Upload a PDF, and immediately start chatting with it — all locally and without uploading your data to the cloud.
 
 
-![DocIQ Screenshot]((https://github.com/AsmaaIbrahimMoussa/DocIQ/blob/main/DocIQ.png)
+## DocIQ Screenshot
+
+https://github.com/AsmaaIbrahimMoussa/DocIQ/blob/main/DocIQ.png
 
 
 ## Features
